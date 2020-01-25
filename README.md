@@ -1,6 +1,7 @@
 # Throwbin
 Modern throwbin.io API wrapper.
 # Usage
+There is some methods of using throwbin API.
 ## Post
 ### Post synchronous
 ```python

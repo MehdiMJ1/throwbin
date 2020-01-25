@@ -1,5 +1,10 @@
 # Throwbin
 Modern throwbin.io API wrapper.
+# Installing
+Just write into your console this:
+```sh
+python -m pip install throwbin
+```
 # Usage
 There is some methods of using throwbin API.
 ## Post
